@@ -82,3 +82,19 @@ Use ARCore's surface detection capabilities to ensure that the clothing item app
 Finally, you can add additional features like animations, texture mapping, and lighting effects to make the clothing item appear more realistic and engaging.
 
 Keep in mind that this process can be quite complex, and you may need to work with a team of developers, designers, and 3D modelers to create a truly impressive ARCore experience. However, if you are willing to put in the time and effort, you can create a unique and engaging augmented reality experience that allows people to try on virtual clothes in the real world.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ARCORE Unity Project
+
+To develop ARCore applications with Unity, you can use C# as the programming language. Unity uses C# as its primary scripting language and provides a built-in API for ARCore that you can use to build AR experiences.
+
+Here are some resources to get started with ARCore development in Unity using C#:
+
+Unity ARCore documentation: https://docs.unity3d.com/Packages/com.unity.xr.arcore@4.0/index.html
+ARCore SDK for Unity: https://developers.google.com/ar/develop/unity/quickstart-android
+ARCore Samples for Unity: https://github.com/google-ar/arcore-unity-sdk/tree/main/Assets/GoogleARCore/Examples
+With these resources, you can learn how to use C# to implement ARCore features such as plane detection, tracking, and interaction in your Unity project.
+
+
