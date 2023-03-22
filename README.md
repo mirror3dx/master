@@ -93,8 +93,11 @@ To develop ARCore applications with Unity, you can use C# as the programming lan
 Here are some resources to get started with ARCore development in Unity using C#:
 
 Unity ARCore documentation: https://docs.unity3d.com/Packages/com.unity.xr.arcore@4.0/index.html
+
 ARCore SDK for Unity: https://developers.google.com/ar/develop/unity/quickstart-android
+
 ARCore Samples for Unity: https://github.com/google-ar/arcore-unity-sdk/tree/main/Assets/GoogleARCore/Examples
+
 With these resources, you can learn how to use C# to implement ARCore features such as plane detection, tracking, and interaction in your Unity project.
 
 
